@@ -1,14 +1,19 @@
 1.  Download AHK @ https://autohotkey.com
 2. Install.
-3. Save the script as wooting.ahk with file type "All files"  
+3. Copy/paste the wooting.ahk into notepad and save file type "All files"  OR download it...
 4. Edit in your bind for crouch
 5. Test your delay @ https://apexmovement.tech/superglidetrainer/
 6. Edit delay if needed in SleepSleep()
+7. Don't forget to RUN the script after making it.
+8. Superglide. A lot.
+
 
 
 Link to script:
 
-
+https://github.com/ttvmkos/keyboard_to_wooting/blob/main/wooting.ahk
+https://github.com/ttvmkos/keyboard_to_wooting/blob/main/wooting.ahk
+https://github.com/ttvmkos/keyboard_to_wooting/blob/main/wooting.ahk
 
 
 
