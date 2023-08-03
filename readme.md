@@ -26,11 +26,11 @@ https://github.com/ttvmkos/keyboard_to_wooting/blob/main/wooting.ahk
 LICENSE
 #########################
 
-License This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-Support If you encounter any problems or have any questions, please open an issue on GitHub. 
+If you encounter any problems or have any questions, please open an issue on GitHub. 
 
-Alternatively, you can open a ticket or post in #questions on the r5reloaded discord @ http://discord.gg/r5reloaded
+Alternatively, you can tag @mkos on the r5reloaded discord @ http://discord.gg/r5reloaded
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), 
 
