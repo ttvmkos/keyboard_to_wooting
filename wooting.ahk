@@ -57,5 +57,6 @@ else
     {
         SendInput {c Up} ; | change c to your key |
     }
+    SendInput {c Up} ; ; | change c to your key |
 }
 Return
