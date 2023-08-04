@@ -1,7 +1,10 @@
 ; Wooting script by mkos @ http://solo.to/mkos
 ; Version 1.0
 ; Test @ https://apexmovement.tech/superglidetrainer/ 
-
+; DISCLAIMER: This script is not endorsed or affiliated with r5reloaded
+; AHK CAN BE used to cheat and create macros, and it is highly discouraged to do so
+; THIS script AS IS only sets a delay to a single keypress, emulating wooting keyboard actuation points
+; Your set delay = increases / decreases your actuation point. 
 
 
 ; PERFORMANCE SETTINGS
